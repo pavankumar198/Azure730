@@ -5,7 +5,6 @@
 
 trigger:
 - main
-ci and cd with github
 pool:
   vmImage: ubuntu-latest
 
